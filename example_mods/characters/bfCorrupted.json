@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "idle",
+			"loop": false,
+			"name": "CorruptedBF Idle"
+		},
+		{
+			"offsets": [
+				-3,
+				-19
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CorruptedBF Down0"
+		},
+		{
+			"offsets": [
+				9,
+				-14
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "CorruptedBF Down Miss"
+		},
+		{
+			"offsets": [
+				-8,
+				9
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CorruptedBF Left0"
+		},
+		{
+			"offsets": [
+				-5,
+				192
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "CorruptedBF Left Miss"
+		},
+		{
+			"offsets": [
+				-12,
+				-3
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CorruptedBF Right0"
+		},
+		{
+			"offsets": [
+				-13,
+				-3
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "CorruptedBF Right Miss"
+		},
+		{
+			"offsets": [
+				-10,
+				29
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUP",
+			"loop": false,
+			"name": "CorruptedBF Up0"
+		},
+		{
+			"offsets": [
+				-1,
+				27
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "CorruptedBF Up Miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dangHeCorrupted",
+	"position": [
+		120,
+		250
+	],
+	"healthicon": "corruptedBF",
+	"flip_x": true,
+	"healthbar_colors": [
+		219,
+		0,
+		116
+	],
+	"camera_position": [
+		-60,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				182
+			],
+			"anim": "singDOWNmiss",
+			"fps": 23,
+			"name": "BF Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 23,
+			"name": "BF Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				189
+			],
+			"anim": "singLEFTmiss",
+			"fps": 23,
+			"name": "BF Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				26
+			],
+			"anim": "singUP",
+			"fps": 23,
+			"name": "BF Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				202
+			],
+			"anim": "singUPmiss",
+			"fps": 23,
+			"name": "BF Up Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 23,
+			"name": "BF Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				175
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 23,
+			"name": "BF Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-3
+			],
+			"anim": "firstDeath",
+			"fps": 23,
+			"name": "BF Dead",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-16
+			],
+			"anim": "deathLoop",
+			"fps": 23,
+			"name": "BF Death Loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 23,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "BF Death Retry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriendohno",
+	"position": [
+		120,
+		250
+	],
+	"healthicon": "bf-edge",
+	"flip_x": true,
+	"healthbar_colors": [
+		27,
+		106,
+		181
+	],
+	"camera_position": [
+		-60,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
